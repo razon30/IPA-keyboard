@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">IPAKeyboard</string>
+
+
+
+
+
+    <!-- ipa sounds -->
+    <string name="key_p" translatable="false">p</string>
+    <string name="key_t" translatable="false">t</string>
+    <string name="key_k" translatable="false">k</string>
+    <string name="key_ch" translatable="false">ʧ</string>
+    <string name="key_f" translatable="false">f</string>
+    <string name="key_th_voiceless" translatable="false">θ</string>
+    <string name="key_s" translatable="false">s</string>
+    <string name="key_sh" translatable="false">ʃ</string>
+    <string name="key_b" translatable="false">b</string>
+    <string name="key_d" translatable="false">d</string>
+    <string name="key_g" translatable="false">g</string>
+    <string name="key_dzh" translatable="false">ʤ</string>
+    <string name="key_v" translatable="false">v</string>
+    <string name="key_th_voiced" translatable="false">ð</string>
+    <string name="key_z" translatable="false">z</string>
+    <string name="key_zh" translatable="false">ʒ</string>
+    <string name="key_m" translatable="false">m</string>
+    <string name="key_n" translatable="false">n</string>
+    <string name="key_ng" translatable="false">ŋ</string>
+    <string name="key_l" translatable="false">l</string>
+    <string name="key_w" translatable="false">w</string>
+    <string name="key_j" translatable="false">j</string>
+    <string name="key_h" translatable="false">h</string>
+    <string name="key_r" translatable="false">r</string>
+    <string name="key_i" translatable="false">i</string>
+    <string name="key_i_short" translatable="false">ɪ</string>
+    <string name="key_e_short" translatable="false">ɛ</string>
+    <string name="key_ae" translatable="false">æ</string>
+    <string name="key_a" translatable="false">ɑ</string>
+    <string name="key_c_backwards" translatable="false">ɔ</string>
+    <string name="key_u_short" translatable="false">ʊ</string>
+    <string name="key_u" translatable="false">u</string>
+    <string name="key_v_upsidedown" translatable="false">ʌ</string>
+    <string name="key_shwua" translatable="false">ə</string>
+    <string name="key_ei" translatable="false">eɪ</string>
+    <string name="key_ai" translatable="false">aɪ</string>
+    <string name="key_au" translatable="false">aʊ</string>
+    <string name="key_oi" translatable="false">ɔɪ</string>
+    <string name="key_ou" translatable="false">oʊ</string>
+    <string name="key_flap_t" translatable="false">ɾ</string>
+    <string name="key_er_stressed" translatable="false">ɝ</string>
+    <string name="key_er_unstressed" translatable="false">ɚ</string>
+    <string name="key_ar" translatable="false">ɑr</string>
+    <string name="key_er" translatable="false">ɛr</string>
+    <string name="key_ir" translatable="false">ɪr</string>
+    <string name="key_or" translatable="false">ɔr</string>
+    <string name="key_glottal_stop" translatable="false">ʔ</string>
+    <string name="key_left_bracket" translatable="false">[</string>
+    <string name="key_right_bracket" translatable="false">]</string>
+    <string name="key_slash" translatable="false">/</string>
+    <string name="key_undertie" translatable="false">‿</string>
+    <string name="key_space" translatable="false">\u0020</string>
+    <string name="key_primary_stress" translatable="false">ˈ</string>
+    <string name="key_secondary_stress" translatable="false">ˌ</string>
+    <string name="key_long_vowel" translatable="false">ː</string>
+    <string name="key_return" translatable="false">\n</string>
+    <string name="key_alt_e_short" translatable="false">e</string>
+    <string name="key_alt_c_backwards" translatable="false">ɒ</string>
+    <string name="key_alt_ou" translatable="false">əʊ</string>
+    <string name="key_alt_er_stressed" translatable="false">ɜː</string>
+    <string name="key_alt_er_unstressed" translatable="false">ə</string>
+    <string name="key_alt_ar" translatable="false">ɑː</string>
+    <string name="key_alt_er" translatable="false">eə</string>
+    <string name="key_alt_ir" translatable="false">ɪə</string>
+    <string name="key_alt_or" translatable="false">ɔː</string>
+    <string name="key_alt_l" translatable="false">ɫ</string>
+    <string name="key_alt_w" translatable="false">ʍ</string>
+    <string name="key_alt_h" translatable="false">ʰ</string>
+    <string name="key_alt_r" translatable="false">ɹ</string>
+
+
+
+    <string name="title_activity_keyboard_input">Write IPA</string>
+    <string name="keyboard_input_toast_text_copied">IPA text copied</string>
+    <string name="keyboard_menu_copy">Copy</string>
+    <string name="keyboard_menu_clear">Clear</string>
+    <string name="keyboard_menu_share">Share</string>
+    <string name="keyboard_menu_share_chooser_title">Share text to…</string>
+    <string name="keyboard_menu_alert_message">Are you sure you want to delete all the text?</string>
+    <string name="keyboard_menu_alert_clear_all_button">Delete</string>
+
+    <string name="dialog_cancel_button">Cancel</string>
+</resources>

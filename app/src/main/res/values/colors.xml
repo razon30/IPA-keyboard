@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="primary">#3F51B5</color>
+    <color name="primary_dark">#303F9F</color>
+    <color name="primary_light">#C5CAE9</color>
+    <color name="accent">#FF4081</color>
+    <color name="primary_text">#DE000000</color>
+    <color name="secondary_text">#8A000000</color>
+    <color name="disabled_text">#1F000000</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#1F000000</color>
+    <color name="light_grey">#ffacacac</color>
+
+    <color name="clear">#00000000</color>
+    <color name="keyboard_background">@color/clear</color>
+    <color name="keyboard_keys_normal">@color/clear</color>
+    <color name="keyboard_keys_pressed">@color/accent</color>
+    <color name="keyboard_text_normal">@color/primary_text</color>
+    <color name="keyboard_text_unselected">@color/disabled_text</color>
+    <color name="keyboard_text_secondary">@color/secondary_text</color>
+    <color name="keyboard_keys_border">@color/light_grey</color>
+
+</resources>
